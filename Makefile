@@ -108,7 +108,7 @@ KUBECTL_VERSION ?= v1.32.0-beta.0
 # renovate: datasource=github-releases depName=kastenhq/kubestr
 KUBESTR_VERSION ?= v0.4.46
 # renovate: datasource=github-releases depName=helm/helm
-HELM_VERSION ?= v3.16.2
+HELM_VERSION ?= v3.16.3
 # renovate: datasource=github-releases depName=cilium/cilium-cli
 CILIUM_CLI_VERSION ?= v0.16.20
 # renovate: datasource=github-releases depName=microsoft/secureboot_objects
